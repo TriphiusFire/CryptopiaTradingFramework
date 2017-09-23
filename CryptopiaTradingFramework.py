@@ -342,7 +342,7 @@ if restore == None or (restore != 'Y' and restore != 'y'):
 
     save = str(raw_input("\nSave settings to auto-load next time? Y/N : "))
     if save == "Y" or save == "y":
-        with open('Slingshot5v0Settings.json','w') as outfile:
+        with open('Settings.json','w') as outfile:
             jsondata={}
             jsondata['API_KEY'] = API_KEY
             jsondata['API_SECRET'] = API_SECRET
