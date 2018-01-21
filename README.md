@@ -1,7 +1,17 @@
 # CryptopiaTradingFramework
 
-You can see the framework I wrote nearly all of (everything except the api query function itself) to build my trading robots in the "Slingshot" series, and "Liquidate".
 
-You can read about, freely download and use my systems by following the documentation links found at https://triphiusfire.carrd.co/
+I've written and shared three major cryptocurrency robots: Slingshot, Razer, and my best- Volatronix for Cryptopia.  I cannot share the code for my trading logic, but this framework might help others build 
 
-Slingshot Flex, Slingshot Ultimate, and Liquidate are robots you can use to earn bitcoin or liquidate alt-coins to bitcoin on the exchange, also listed in the website above.
+If you are interested in using my bots:
+
+Volatronix: https://docs.google.com/document/d/1Wj3lNNjshEnT7JgCU_FqNS6-qUtYolOjJTh5HFc5-Z8/edit?usp=sharing
+
+Razer: https://docs.google.com/document/d/1vciw4EiZ739j_-33_aU8OFF7tXiAwMu3gcM82Hw4CpA/edit?usp=sharing
+
+Slingshot: https://docs.google.com/document/d/17I2pddC4h3P4tPVAmhNQEgvjx22CY_35cVVetu0hwT8/edit?usp=sharing
+
+And our community of users, actually quite large now! Doing good work here: https://discord.gg/s7pAag6
+At our Discord chatroom we have lots of people who can help you get set up if i'm not around, or people to talk about settings, or share trade histories, etc.  
+
+My work is legit, and people are earning Crypto every day
