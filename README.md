@@ -15,3 +15,5 @@ And our community of users, actually quite large now! Doing good work here: http
 At our Discord chatroom we have lots of people who can help you get set up if i'm not around, or people to talk about settings, or share trade histories, etc.  
 
 My work is legit, and people are earning Crypto every day
+
+*** I no longer distribute python .exe files for trading.  they are too easy to decompile.  If you are interested in trading the ultimate volatronix strategy, go here, running serverside: https://triphiusfire.nz/volatronix.html  ***
